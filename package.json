@@ -1,0 +1,20 @@
+{
+  "name": "Authenticated",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-promise-router": "^3.0.3",
+    "joi": "^13.7.0",
+    "mongoose": "^5.3.3",
+    "morgan": "^1.9.1"
+  }
+}
